@@ -1,0 +1,10 @@
+.image-to-left {
+    width: 30%;
+    margin: 2em 2%;
+}
+
+#txt-img-1 {
+    display: inline-block;
+    width: 50%;
+    margin: 1em 3%;
+}
