@@ -87,6 +87,7 @@ p {
 }
 
 footer {
+    margin-top: 40px;
     min-height: 100px;
     background-image: linear-gradient(90deg, rgba(10,30,60,1) 0%, rgba(30,20,40,1) 100%);
     text-align: center;
