@@ -58,6 +58,11 @@ body {
     margin-bottom: 15px;
 }
 
+.small {
+    font-size: 1.1em;
+    color: rgb(157, 170, 81);
+}
+
 .btn {
     transition: 300ms;
 
