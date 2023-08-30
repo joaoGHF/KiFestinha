@@ -20,5 +20,5 @@
 .contato:hover {
     background-color: rgba(200, 100, 200, 0.1);
     transition: 300ms;
-    transform: translate(10px, 10px)
+    transform: translate(10px, 10px);
 }
